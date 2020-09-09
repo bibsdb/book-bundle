@@ -1,0 +1,8 @@
+assets:
+  js_prod:
+  - bundles/bibsdbbook/assets/build/bibsdbbook.js
+modules:
+  toolsModule:
+    files:
+      - bundles/bibsdbbook/apps/toolsModule/book-text-editor.js
+apps:

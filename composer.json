@@ -1,0 +1,13 @@
+{
+    "name": "bibsdb/book-bundle",
+    "description": "Bibsdb book template.",
+    "type": "symfony-bundle",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Bibsdb\\BookBundle\\": ""
+        }
+    }
+}
